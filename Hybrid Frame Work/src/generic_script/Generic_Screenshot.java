@@ -23,4 +23,5 @@ public class Generic_Screenshot {
 		File dst=new File(photo+d2+".jpeg");
 		FileUtils.copyFile(src, dst);
 }
+	
 }

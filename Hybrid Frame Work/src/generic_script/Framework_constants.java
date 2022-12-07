@@ -10,4 +10,6 @@ public interface Framework_constants {
 	
 	String url="https://www.facebook.com";
 	
+	
+	
 }
